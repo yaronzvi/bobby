@@ -8,6 +8,8 @@ import logging
 from slackeventsapi import SlackEventAdapter
 from randombot import RandomBot
 
+# remark !!!
+
 # Initialize a Flask app to host the events adapter
 app = Flask(__name__)
 
